@@ -3,7 +3,7 @@ interface shranya{
 }
 class Bot{
     void Man(){
-        System.out.println("Hi shranya here");
+        System.out.println("Hi aniruddha here");
         System.out.println("I am new Method here");
     }
 }
