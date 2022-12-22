@@ -5,7 +5,7 @@ int a[];
 a= new int[10];
 a[12]=20;
 int d=0;
-int c= 42/d;
+int c= 40/d;
 System.out.println(a);
 }
 catch(ArrayIndexOutofBoundsException e){
